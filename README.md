@@ -4,4 +4,4 @@ This app is going to be awesome.
 
 ## The Team
 
-- Teacher: Mr. Joel Bundt, Esquire III
+- Teacher: Mr. Joel Bundt - Math and Computer Science
