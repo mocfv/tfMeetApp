@@ -7,4 +7,4 @@ This app is going to be _awesome_.
 - Industry Expert: [@dahlbyk](https://github.com/dahlbyk)
 - Weirdo eating moss in the corner: Alex Nhan the peasant
 - Knight: Trey Knight
-- Simeon Bundt
+- Simeon Bundt is awesome
