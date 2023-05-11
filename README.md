@@ -6,7 +6,6 @@ This app is going to be _awesome_.
 - Teacher: Mr. Joel Bundt - Math and Computer Science
 - Industry Expert: [@dahlbyk](https://github.com/dahlbyk)
 - Weirdo eating moss in the corner: Alex Nhan the peasant
-
 - Knight: Dr. Sire Trey Knight Sr. Jr. LV of Papua New Guinea 
 - Simeon Bundt is amazing
 
