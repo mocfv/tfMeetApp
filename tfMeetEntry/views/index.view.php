@@ -7,7 +7,7 @@
     //Import the following classes
     use Core\App;
     use Core\Database;
-    
+    dd(simeon);
     //Create a new database object
     $db = App::resolve(Database::class);
     
